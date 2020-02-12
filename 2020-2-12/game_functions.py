@@ -1,3 +1,4 @@
+# 游戏事件处理函数
 import sys
 import pygame
 from bullet import Bullet
