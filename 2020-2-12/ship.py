@@ -1,3 +1,4 @@
+# 飞船类
 import pygame
 class Ship:
     def __init__(self, ai_settings, screen):
