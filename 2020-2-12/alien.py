@@ -1,3 +1,4 @@
+# 外星人类
 import pygame
 from pygame.sprite import Sprite
 
