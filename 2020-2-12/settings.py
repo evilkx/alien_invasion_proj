@@ -1,3 +1,4 @@
+# 设置与各类属性
 class Settings():
     """存储Alien Invasion的所有设置的类"""
     def __init__(self):
